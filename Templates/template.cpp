@@ -25,6 +25,7 @@ int main()
 	cout << half(b) << endl;
 	cout << ceil(half(c)) << endl << endl;
 
+
 	system("pause");
 
 
